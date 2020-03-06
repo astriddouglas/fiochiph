@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eloukoakie.lucidity.de/sitemap.xml
